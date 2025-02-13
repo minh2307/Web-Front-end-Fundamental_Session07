@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #eaeaea;
+    
+}
+h1{
+    margin: 20px 10px;
+}
+ul{
+    margin: 20px 10px;
+}
+p{
+    margin: 20px 0px;
+}
+img{
+    vertical-align:middle;
+}
+span{
+    vertical-align:middle;
+}
+td{
+    padding: 20px;
+}
+button{
+    border-radius: 6px;
+    margin: 10px ;
+    width: 150px;
+    padding: 10px;
+}
+.btn1{
+    background-color: red;
+    color: white;
+    border: 0px;
+}
+.btn2{
+    background-color: #eaeaea;
+    border: 2px solid #bab7b7;
+}

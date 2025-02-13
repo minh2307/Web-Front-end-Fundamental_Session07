@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 20px;
+}
+#anh1{
+    padding: 10px;
+    border-radius: 50%;
+    width: 70px;
+    vertical-align:middle;
+}
+.head{
+    vertical-align:middle;
+
+}
+h1{
+    display: inline;
+
+}
+.minhHang{
+    margin: 30px 10px 10px 10px;
+    width: 400px;
+}
+h3{
+    margin: 0px 0px 20px 10px;
+}
+p{
+    margin: 10px 0px 10px 10px;
+    width: 400px;
+}
