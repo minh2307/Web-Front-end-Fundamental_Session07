@@ -3,24 +3,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+table{
+     
+}
 .boss{
+    position: relative; 
+    border: 1px solid white;
     width: 300px;
+    margin: 100px;
+    box-shadow: 10px 5px 5px 10px #a7a7a7;
+    border-radius: 20px;
 }
 td{
-    border: 1px solid black;
     border-radius: 20px;
 }
 .cont{
-    position: relative;
-    border: 1px solid rgb(0, 0, 0);
-}
-.cont{
+     position: relative;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border: 1px solid red;
     background-color: red;
 }
 .content{
     text-align: center;
     width: 300px;
-    margin-left: 10px;
 }
 img{
     position: absolute;
@@ -44,7 +50,6 @@ span{
     border: 0px;
     background-color: #e81935;
     color: white;
-    border-radius: 100px;
     padding: 5px 40px;
     margin: 10px;
 }
